@@ -1,6 +1,8 @@
 # ✈️ Flight Cancellation & Delay Analysis Dashboard
 
-![Dashboard Preview](dashboard_image.jpg)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Tableau%20Dashboard-1F578A?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/stratulat.iurie/viz/FlightsDelaysandCancellations_17588258428660/FlightDelaysandCancellations)
+
+![Dashboard Preview](2_Utilities/dashboard_preview.jpg)
 
 ### 📊 Project Overview
 This interactive Tableau dashboard allows airport managers and analysts to visualize flight patterns, identifying the root causes of cancellations and delays across major US airports. The goal was to build a tool that highlights peak delay times, seasonality, and carrier performance in a high-contrast environment.
